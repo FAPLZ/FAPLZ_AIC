@@ -2,7 +2,7 @@
 	
 "AICShortDescription": {
 	
-  "German": "Diese .aic stammt von Xander10alpha Erweitert von der Tatha .aic."
+  "German": "Die Grundstruktur der .aic stammt von Xander10alpha und Tatha .aic."
   "English": "eng",
   "Polish": "pl",
   "Russian": "ты  то, что заслуживаешь, вознагражден будет Только один, для монолита!"
