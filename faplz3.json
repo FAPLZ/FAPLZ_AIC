@@ -50,1453 +50,731 @@
 				"Unknown004": 0,
 				"Unknown005": 0,
 				"CriticalPopularity": 4900,
-
 				"LowestPopularity": 5500,
-
 				"HighestPopularity": 7500,
-
 				"TaxesMin": 3,
-
 				"TaxesMax": 10,
-
 				"Unknown011": 20,
-
 				"Farm1": "DairyFarm",
-
 				"Farm2": "AppleFarm",
-
 				"Farm3": "AppleFarm",
-
 				"Farm4": "AppleFarm",
-
 				"Farm5": "AppleFarm",
-
 				"Farm6": "AppleFarm",
-
 				"Farm7": "None",
-
 				"Farm8": "None",
-
 				"PopulationPerFarm": 6,
-
 				"PopulationPerWoodcutter": 8,
-
 				"PopulationPerQuarry": 15,
-
 				"PopulationPerIronmine": 18,
-
 				"PopulationPerPitchrig": 18,
-
 				"MaxQuarries": 2,
-
 				"MaxIronmines": 1,
-
 				"MaxWoodcutters": 6,
-
 				"MaxPitchrigs": 1,
-
 				"MaxFarms": 7,
-
 				"BuildInterval": 1,
-
 				"ResourceRebuildDelay": 10,
-
 				"MaxFood": 100,
-
 				"MinimumApples": 10,
-
 				"MinimumCheese": 5,
-
 				"MinimumBread": -1,
-
 				"MinimumWheat": -1,
-
 				"MinimumHop": -1,
-
 				"TradeAmountFood": 10,
-
 				"TradeAmountEquipment": 3,
-
 				"Unknown040": 5,
-
 				"MinimumGoodsRequiredAfterTrade": 0,
-
 				"DoubleRationsFoodThreshold": 50,
-
 				"MaxWood": 30,
-
 				"MaxStone": 45,
-
 				"MaxResourceOther": 20,
-
 				"MaxEquipment": 20,
-
 				"MaxBeer": 20,
-
 				"MaxResourceVariance": 5,
-
 				"RecruitGoldThreshold": 200,
-
 				"BlacksmithSetting": "Swords",
-
 				"FletcherSetting": "Bows",
-
 				"PoleturnerSetting": "Spears",
-
 				"SellResource01": "None",
-
 				"SellResource02": "Hop",
-
 				"SellResource03": "Iron",
-
 				"SellResource04": "Pitch",
-
 				"SellResource05": "Wheat",
-
 				"SellResource06": "Beer",
-
 				"SellResource07": "Flour",
-
 				"SellResource08": "None",
-
 				"SellResource09": "Crossbows",
-
 				"SellResource10": "None",
-
 				"SellResource11": "Pikes",
-
 				"SellResource12": "Maces",
-
 				"SellResource13": "Swords",
-
 				"SellResource14": "LeatherArmors",
-
 				"SellResource15": "IronArmors",
-
 				"DefWallPatrolRallyTime": 20,
-
 				"DefWallPatrolGroups": 2,
-
 				"DefSiegeEngineGoldThreshold": 200,
-
 				"DefSiegeEngineBuildDelay": 20,
-
 				"Unknown072": 800,
-
 				"Unknown073": 80,
-
 				"RecruitProbDefDefault": 10,
-
 				"RecruitProbDefWeak": 50,
-
 				"RecruitProbDefStrong": 5,
-
 				"RecruitProbRaidDefault": 40,
-
 				"RecruitProbRaidWeak": 50,
-
 				"RecruitProbRaidStrong": 5,
-
 				"RecruitProbAttackDefault": 50,
-
 				"RecruitProbAttackWeak": 0,
-
 				"RecruitProbAttackStrong": 90,
-
 				"SortieUnitRangedMin": 9,
-
 				"SortieUnitRanged": "EuropArcher",
-
 				"SortieUnitMeleeMin": 15,
-
 				"SortieUnitMelee": "Spearman",
-
 				"DefDiggingUnitMax": 5,
-
 				"DefDiggingUnit": "Spearman",
-
 				"RecruitInterval": 1,
-
 				"RecruitIntervalWeak": 1,
-
 				"RecruitIntervalStrong": 1,
-
 				"DefTotal": 80,
-
 				"OuterPatrolGroupsCount": 2,
-
 				"OuterPatrolGroupsMove": "True",
-
 				"OuterPatrolRallyDelay": 10,
-
 				"DefWalls": 70,
-
 				"DefUnit1": "Spearman",
-
 				"DefUnit2": "Spearman",
-
 				"DefUnit3": "EuropArcher",
-
 				"DefUnit4": "EuropArcher",
-
 				"DefUnit5": "EuropArcher",
-
 				"DefUnit6": "EuropArcher",
-
 				"DefUnit7": "Slinger",
-
 				"DefUnit8": "None",
-
 				"RaidUnitsBase": 15,
-
 				"RaidUnitsRandom": 10,
-
 				"RaidUnit1": "Spearman",
-
 				"RaidUnit2": "Spearman",
-
 				"RaidUnit3": "EuropArcher",
-
 				"RaidUnit4": "Slinger",
-
 				"RaidUnit5": "None",
-
 				"RaidUnit6": "None",
-
 				"RaidUnit7": "None",
-
 				"RaidUnit8": "None",
-
 				"HarassingSiegeEngine1": "Catapult",
-
 				"HarassingSiegeEngine2": "None",
-
 				"HarassingSiegeEngine3": "None",
-
 				"HarassingSiegeEngine4": "None",
-
 				"HarassingSiegeEngine5": "None",
-
 				"HarassingSiegeEngine6": "None",
-
 				"HarassingSiegeEngine7": "None",
-
 				"HarassingSiegeEngine8": "None",
-
 				"HarassingSiegeEnginesMax": 2,
-
 				"Unknown124": 3,
-
 				"AttForceBase": 40,
-
 				"AttForceRandom": 20,
-
 				"AttForceSupportAllyThreshold": 15,
-
 				"AttForceRallyPercentage": 50,
-
 				"Unknown129": 100,
-
 				"Unknown130": 0,
-
 				"AttUnitPatrolRecommandDelay": 25,
-
 				"Unknown132": 20,
-
 				"SiegeEngine1": "Catapult",
-
 				"SiegeEngine2": "Shield",
-
 				"SiegeEngine3": "Shield",
-
 				"SiegeEngine4": "Catapult",
-
 				"SiegeEngine5": "Shield",
-
 				"SiegeEngine6": "Shield",
-
 				"SiegeEngine7": "Shield",
-
 				"SiegeEngine8": "Shield",
-
 				"CowThrowInterval": 10,
-
 				"Unknown142": 0,
-
 				"AttMaxEngineers": 10,
-
 				"AttDiggingUnit": "Spearman",
-
 				"AttDiggingUnitMax": 30,
-
 				"AttUnit2": "EuropArcher",
-
 				"AttUnit2Max": 20,
-
 				"AttMaxAssassins": 0,
-
 				"AttMaxLaddermen": 4,
-
 				"AttMaxTunnelers": 0,
-
 				"AttUnitPatrol": "EuropArcher",
-
 				"AttUnitPatrolMax": 15,
-
 				"AttUnitPatrolGroupsCount": 1,
-
 				"AttUnitBackup": "EuropArcher",
-
 				"AttUnitBackupMax": 25,
-
 				"AttUnitBackupGroupsCount": 1,
-
 				"AttUnitEngage": "Spearman",
-
 				"AttUnitEngageMax": 20,
-
 				"AttUnitSiegeDef": "Spearman",
-
 				"AttUnitSiegeDefMax": 15,
-
 				"AttUnitSiegeDefGroupsCount": 1,
-
 				"AttUnitMain1": "Spearman",
-
 				"AttUnitMain2": "Spearman",
-
 				"AttUnitMain3": "EuropArcher",
-
 				"AttUnitMain4": "None",
-
 				"AttMaxDefault": 220,
-
 				"AttMainGroupsCount": 1,
-
 				"TargetChoice": "Player"
-
 			}
-
 		},
-
+		
 		{
-
 			"Name": "Snake",
-
 			"CustomName": "",
-
 			"Personality": {
 
-
-
-
-
 				"Unknown000": 12,
-
 				"Unknown001": 0,
-
 				"Unknown002": 0,
-
 				"Unknown003": 0,
-
 				"Unknown004": 0,
-
 				"Unknown005": 0,
-
 				"CriticalPopularity": 4900,
-
 				"LowestPopularity": 5500,
-
 				"HighestPopularity": 8000,
-
 				"TaxesMin": 3,
-
 				"TaxesMax": 11,
-
 				"Unknown011": 15,
-
 				"Farm1": "AppleFarm",
-
 				"Farm2": "DairyFarm",
-
 				"Farm3": "AppleFarm",
-
 				"Farm4": "DairyFarm",
-
 				"Farm5": "AppleFarm",
-
 				"Farm6": "None",
-
 				"Farm7": "None",
-
 				"Farm8": "None",
-
 				"PopulationPerFarm": 5,
-
 				"PopulationPerWoodcutter": 5,
-
 				"PopulationPerQuarry": 10,
-
 				"PopulationPerIronmine": 15,
-
 				"PopulationPerPitchrig": 12,
-
 				"MaxQuarries": 3,
-
 				"MaxIronmines": 1,
-
 				"MaxWoodcutters": 10,
-
 				"MaxPitchrigs": 2,
-
 				"MaxFarms": 11,
-
 				"BuildInterval": 2,
-
 				"ResourceRebuildDelay": 12,
-
 				"MaxFood": 150,
-
 				"MinimumApples": 15,
-
 				"MinimumCheese": 15,
-
 				"MinimumBread": -1,
-
 				"MinimumWheat": -1,
-
 				"MinimumHop": -1,
-
 				"TradeAmountFood": 10,
-
 				"TradeAmountEquipment": 5,
-
 				"Unknown040": 10,
-
 				"MinimumGoodsRequiredAfterTrade": 10,
-
 				"DoubleRationsFoodThreshold": 80,
-
 				"MaxWood": 50,
-
 				"MaxStone": 45,
-
 				"MaxResourceOther": 15,
-
 				"MaxEquipment": 12,
-
 				"MaxBeer": 5,
-
 				"MaxResourceVariance": 5,
-
 				"RecruitGoldThreshold": 200,
-
 				"BlacksmithSetting": "Swords",
-
 				"FletcherSetting": "Bows",
-
 				"PoleturnerSetting": "Spears",
-
 				"SellResource01": "None",
-
 				"SellResource02": "Hop",
-
 				"SellResource03": "Iron",
-
 				"SellResource04": "Pitch",
-
 				"SellResource05": "Wheat",
-
 				"SellResource06": "Beer",
-
 				"SellResource07": "Flour",
-
 				"SellResource08": "None",
-
 				"SellResource09": "Crossbows",
-
 				"SellResource10": "None",
-
 				"SellResource11": "Pikes",
-
 				"SellResource12": "Maces",
-
 				"SellResource13": "Swords",
-
 				"SellResource14": "LeatherArmors",
-
 				"SellResource15": "IronArmors",
-
 				"DefWallPatrolRallyTime": 2,
-
 				"DefWallPatrolGroups": 4,
-
 				"DefSiegeEngineGoldThreshold": 450,
-
 				"DefSiegeEngineBuildDelay": 20,
-
 				"Unknown072": 400,
-
 				"Unknown073": 60,
-
 				"RecruitProbDefDefault": 30,
-
 				"RecruitProbDefWeak": 70,
-
 				"RecruitProbDefStrong": 20,
-
 				"RecruitProbRaidDefault": 40,
-
 				"RecruitProbRaidWeak": 30,
-
 				"RecruitProbRaidStrong": 40,
-
 				"RecruitProbAttackDefault": 30,
-
 				"RecruitProbAttackWeak": 0,
-
 				"RecruitProbAttackStrong": 40,
-
 				"SortieUnitRangedMin": 10,
-
 				"SortieUnitRanged": "EuropArcher",
-
 				"SortieUnitMeleeMin": 10,
-
 				"SortieUnitMelee": "Spearman",
-
 				"DefDiggingUnitMax": 20,
-
 				"DefDiggingUnit": "Spearman",
-
 				"RecruitInterval": 1,
-
 				"RecruitIntervalWeak": 2,
-
 				"RecruitIntervalStrong": 1,
-
 				"DefTotal": 120,
-
 				"OuterPatrolGroupsCount": 3,
-
 				"OuterPatrolGroupsMove": "True",
-
 				"OuterPatrolRallyDelay": 3,
-
 				"DefWalls": 70,
-
 				"DefUnit1": "EuropArcher",
-
 				"DefUnit2": "EuropArcher",
-
 				"DefUnit3": "EuropArcher",
-
 				"DefUnit4": "Slinger",
-
 				"DefUnit5": "Spearman",
-
 				"DefUnit6": "None",
-
 				"DefUnit7": "None",
-
 				"DefUnit8": "None",
-
 				"RaidUnitsBase": 40,
-
 				"RaidUnitsRandom": 20,
-
 				"RaidUnit1": "Slave",
-
 				"RaidUnit2": "Slave",
-
 				"RaidUnit3": "Slave",
-
 				"RaidUnit4": "Slinger",
-
 				"RaidUnit5": "Slinger",
-
 				"RaidUnit6": "Spearman",
-
 				"RaidUnit7": "EuropArcher",
-
 				"RaidUnit8": "Spearman",
-
 				"HarassingSiegeEngine1": "Catapult",
-
 				"HarassingSiegeEngine2": "FireBallista",
-
 				"HarassingSiegeEngine3": "None",
-
 				"HarassingSiegeEngine4": "None",
-
 				"HarassingSiegeEngine5": "None",
-
 				"HarassingSiegeEngine6": "None",
-
 				"HarassingSiegeEngine7": "None",
-
 				"HarassingSiegeEngine8": "None",
-
 				"HarassingSiegeEnginesMax": 3,
-
 				"Unknown124": 3,
-
 				"AttForceBase": 60,
-
 				"AttForceRandom": 20,
-
 				"AttForceSupportAllyThreshold": 30,
-
 				"AttForceRallyPercentage": 60,
-
 				"Unknown129": 100,
-
 				"Unknown130": 0,
-
 				"AttUnitPatrolRecommandDelay": 25,
-
 				"Unknown132": 40,
-
 				"SiegeEngine1": "Catapult",
-
 				"SiegeEngine2": "FireBallista",
-
 				"SiegeEngine3": "Catapult",
-
 				"SiegeEngine4": "FireBallista",
-
 				"SiegeEngine5": "Shield",
-
 				"SiegeEngine6": "Shield",
-
 				"SiegeEngine7": "Shield",
-
 				"SiegeEngine8": "SiegeTower",
-
 				"CowThrowInterval": 24,
-
 				"Unknown142": 0,
-
 				"AttMaxEngineers": 15,
-
 				"AttDiggingUnit": "Spearman",
-
 				"AttDiggingUnitMax": 40,
-
 				"AttUnit2": "EuropArcher",
-
 				"AttUnit2Max": 40,
-
 				"AttMaxAssassins": 3,
-
 				"AttMaxLaddermen": 20,
-
 				"AttMaxTunnelers": 0,
-
 				"AttUnitPatrol": "Slinger",
-
 				"AttUnitPatrolMax": 20,
-
 				"AttUnitPatrolGroupsCount": 1,
-
 				"AttUnitBackup": "ArabArcher",
-
 				"AttUnitBackupMax": 60,
-
 				"AttUnitBackupGroupsCount": 1,
-
 				"AttUnitEngage": "Spearman",
-
 				"AttUnitEngageMax": 30,
-
 				"AttUnitSiegeDef": "EuropArcher",
-
 				"AttUnitSiegeDefMax": 40,
-
 				"AttUnitSiegeDefGroupsCount": 1,
-
 				"AttUnitMain1": "Spearman",
-
 				"AttUnitMain2": "Spearman",
-
 				"AttUnitMain3": "Spearman",
-
 				"AttUnitMain4": "Slave",
-
 				"AttMaxDefault": 360,
-
 				"AttMainGroupsCount": 1,
-
 				"TargetChoice": "Balanced"
-
 			}
-
 		},
 
 		{
-
 			"Name": "Pig",
-
 			"CustomName": "",
-
 			"Personality": {
-
-
-
 
 
 				"Unknown000": 12,
-
 				"Unknown001": 0,
-
 				"Unknown002": 0,
-
 				"Unknown003": 0,
-
 				"Unknown004": 0,
-
 				"Unknown005": 0,
-
 				"CriticalPopularity": 5000,
-
 				"LowestPopularity": 7000,
-
 				"HighestPopularity": 8500,
-
 				"TaxesMin": 3,
-
 				"TaxesMax": 11,
-
 				"Unknown011": 20,
-
 				"Farm1": "DairyFarm",
-
 				"Farm2": "DairyFarm",
-
 				"Farm3": "AppleFarm",
-
-				"Farm4": "None",
-
+				"Farm4": "HopFarm",
 				"Farm5": "None",
-
 				"Farm6": "None",
-
 				"Farm7": "None",
-
 				"Farm8": "None",
-
 				"PopulationPerFarm": 4,
-
 				"PopulationPerWoodcutter": 6,
-
 				"PopulationPerQuarry": 25,
-
 				"PopulationPerIronmine": 10,
-
 				"PopulationPerPitchrig": 20,
-
 				"MaxQuarries": 4,
-
 				"MaxIronmines": 4,
-
 				"MaxWoodcutters": 11,
-
 				"MaxPitchrigs": 1,
-
 				"MaxFarms": 12,
-
 				"BuildInterval": 3,
-
 				"ResourceRebuildDelay": 50,
-
 				"MaxFood": 400,
-
 				"MinimumApples": 10,
-
 				"MinimumCheese": 10,
-
 				"MinimumBread": 10,
-
 				"MinimumWheat": -1,
-
 				"MinimumHop": 5,
-
 				"TradeAmountFood": 5,
-
 				"TradeAmountEquipment": 4,
-
 				"Unknown040": 12,
-
 				"MinimumGoodsRequiredAfterTrade": 70,
-
 				"DoubleRationsFoodThreshold": 60,
-
-				"MaxWood": 70,
-
+				"MaxWood": 60,
 				"MaxStone": 50,
-
 				"MaxResourceOther": 10,
-
 				"MaxEquipment": 10,
-
-				"MaxBeer": 5,
-
+				"MaxBeer": 10,
 				"MaxResourceVariance": 5,
-
 				"RecruitGoldThreshold": 200,
-
 				"BlacksmithSetting": "Maces",
-
 				"FletcherSetting": "Crossbows",
-
 				"PoleturnerSetting": "Spears",
-
 				"SellResource01": "None",
-
 				"SellResource02": "None",
-
 				"SellResource03": "None",
-
 				"SellResource04": "Pitch",
-
 				"SellResource05": "Wheat",
-
 				"SellResource06": "None",
-
 				"SellResource07": "Flour",
-
 				"SellResource08": "Bows",
-
 				"SellResource09": "None",
-
 				"SellResource10": "None",
-
 				"SellResource11": "Pikes",
-
 				"SellResource12": "None",
-
 				"SellResource13": "Swords",
-
 				"SellResource14": "None",
-
 				"SellResource15": "IronArmors",
-
 				"DefWallPatrolRallyTime": 10,
-
 				"DefWallPatrolGroups": 4,
-
 				"DefSiegeEngineGoldThreshold": 100,
-
 				"DefSiegeEngineBuildDelay": 20,
-
 				"Unknown072": 200,
-
 				"Unknown073": 40,
-
 				"RecruitProbDefDefault": 60,
-
 				"RecruitProbDefWeak": 100,
-
 				"RecruitProbDefStrong": 30,
-
 				"RecruitProbRaidDefault": 0,
-
 				"RecruitProbRaidWeak": 0,
-
 				"RecruitProbRaidStrong": 0,
-
 				"RecruitProbAttackDefault": 40,
-
 				"RecruitProbAttackWeak": 0,
-
 				"RecruitProbAttackStrong": 70,
-
 				"SortieUnitRangedMin": 20,
-
 				"SortieUnitRanged": "Crossbowman",
-
 				"SortieUnitMeleeMin": 10,
-
 				"SortieUnitMelee": "Maceman",
-
 				"DefDiggingUnitMax": 10,
-
 				"DefDiggingUnit": "Spearman",
-
 				"RecruitInterval": 1,
-
 				"RecruitIntervalWeak": 1,
-
 				"RecruitIntervalStrong": 2,
-
 				"DefTotal": 90,
-
 				"OuterPatrolGroupsCount": 2,
-
 				"OuterPatrolGroupsMove": "True",
-
 				"OuterPatrolRallyDelay": 20,
-
 				"DefWalls": 70,
-
 				"DefUnit1": "Crossbowman",
-
 				"DefUnit2": "Crossbowman",
-
 				"DefUnit3": "Crossbowman",
-
 				"DefUnit4": "Slinger",
-
 				"DefUnit5": "None",
-
 				"DefUnit6": "None",
-
 				"DefUnit7": "None",
-
 				"DefUnit8": "None",
-
 				"RaidUnitsBase": 30,
-
 				"RaidUnitsRandom": 25,
-
 				"RaidUnit1": "Maceman",
-
 				"RaidUnit2": "Maceman",
-
 				"RaidUnit3": "Slinger",
-
 				"RaidUnit4": "None",
-
 				"RaidUnit5": "None",
-
 				"RaidUnit6": "None",
-
 				"RaidUnit7": "None",
-
 				"RaidUnit8": "None",
-
 				"HarassingSiegeEngine1": "Catapult",
-
 				"HarassingSiegeEngine2": "None",
-
 				"HarassingSiegeEngine3": "None",
-
 				"HarassingSiegeEngine4": "None",
-
 				"HarassingSiegeEngine5": "None",
-
 				"HarassingSiegeEngine6": "None",
-
 				"HarassingSiegeEngine7": "None",
-
 				"HarassingSiegeEngine8": "None",
-
 				"HarassingSiegeEnginesMax": 5,
-
 				"Unknown124": 3,
-
 				"AttForceBase": 150,
-
 				"AttForceRandom": 40,
-
 				"AttForceSupportAllyThreshold": 10,
-
 				"AttForceRallyPercentage": 70,
-
 				"Unknown129": 100,
-
 				"Unknown130": 5,
-
 				"AttUnitPatrolRecommandDelay": 15,
-
 				"Unknown132": 20,
-
 				"SiegeEngine1": "Catapult",
-
 				"SiegeEngine2": "Catapult",
-
 				"SiegeEngine3": "Catapult",
-
 				"SiegeEngine4": "BatteringRam",
-
 				"SiegeEngine5": "BatteringRam",
-
 				"SiegeEngine6": "Shield",
-
 				"SiegeEngine7": "Shield",
-
 				"SiegeEngine8": "Shield",
-
 				"CowThrowInterval": 10,
-
 				"Unknown142": 0,
-
 				"AttMaxEngineers": 20,
-
 				"AttDiggingUnit": "Maceman",
-
 				"AttDiggingUnitMax": 30,
-
 				"AttUnit2": "Spearman",
-
 				"AttUnit2Max": 80,
-
 				"AttMaxAssassins": 0,
-
 				"AttMaxLaddermen": 7,
-
 				"AttMaxTunnelers": 0,
-
 				"AttUnitPatrol": "Slinger",
-
 				"AttUnitPatrolMax": 30,
-
 				"AttUnitPatrolGroupsCount": 1,
-
 				"AttUnitBackup": "Crossbowman",
-
 				"AttUnitBackupMax": 15,
-
 				"AttUnitBackupGroupsCount": 1,
-
 				"AttUnitEngage": "Maceman",
-
 				"AttUnitEngageMax": 15,
-
 				"AttUnitSiegeDef": "Maceman",
-
 				"AttUnitSiegeDefMax": 15,
-
 				"AttUnitSiegeDefGroupsCount": 1,
-
 				"AttUnitMain1": "Maceman",
-
 				"AttUnitMain2": "Maceman",
-
 				"AttUnitMain3": "None",
-
 				"AttUnitMain4": "None",
-
 				"AttMaxDefault": 400,
-
 				"AttMainGroupsCount": 2,
-
 				"TargetChoice": "Gold"
-
 			}
-
 		},
-
+		
 		{
-
 			"Name": "Wolf",
-
 			"CustomName": "",
-
 			"Personality": {
-
-
-
-
 
 				"Unknown000": 13,
-
 				"Unknown001": 0,
-
 				"Unknown002": 0,
-
 				"Unknown003": 0,
-
 				"Unknown004": 1,
-
 				"Unknown005": 1,
-
 				"CriticalPopularity": 4900,
-
 				"LowestPopularity": 6000,
-
 				"HighestPopularity": 9200,
-
 				"TaxesMin": 3,
-
 				"TaxesMax": 11,
-
 				"Unknown011": 12,
-
 				"Farm1": "DairyFarm",
-
 				"Farm2": "AppleFarm",
-
 				"Farm3": "HopFarm",
-
 				"Farm4": "AppleFarm",
-
 				"Farm5": "WheatFarm",
-
 				"Farm6": "AppleFarm",
-
 				"Farm7": "None",
-
 				"Farm8": "None",
-
 				"PopulationPerFarm": 2,
-
 				"PopulationPerWoodcutter": 3,
-
 				"PopulationPerQuarry": 4,
-
 				"PopulationPerIronmine": 8,
-
 				"PopulationPerPitchrig": 16,
-
 				"MaxQuarries": 6,
-
 				"MaxIronmines": 5,
-
 				"MaxWoodcutters": 12,
-
 				"MaxPitchrigs": 4,
-
 				"MaxFarms": 12,
-
 				"BuildInterval": 2,
-
 				"ResourceRebuildDelay": 20,
-
 				"MaxFood": 200,
-
 				"MinimumApples": 5,
-
 				"MinimumCheese": 5,
-
 				"MinimumBread": 5,
-
 				"MinimumWheat": 5,
-
 				"MinimumHop": 5,
-
 				"TradeAmountFood": 10,
-
-				"TradeAmountEquipment": 5,
-
+				"TradeAmountEquipment": 3,
 				"Unknown040": 10,
-
 				"MinimumGoodsRequiredAfterTrade": 40,
-
 				"DoubleRationsFoodThreshold": 40,
-
 				"MaxWood": 70,
-
-				"MaxStone": 60,
-
+				"MaxStone": 70,
 				"MaxResourceOther": 15,
-
-				"MaxEquipment": 10,
-
+				"MaxEquipment": 6,
 				"MaxBeer": 20,
-
 				"MaxResourceVariance": 10,
-
 				"RecruitGoldThreshold": 190,
-
 				"BlacksmithSetting": "Both",
-
 				"FletcherSetting": "Crossbows",
-
 				"PoleturnerSetting": "Pikes",
-
 				"SellResource01": "None",
-
 				"SellResource02": "None",
-
 				"SellResource03": "None",
-
 				"SellResource04": "None",
-
 				"SellResource05": "None",
-
 				"SellResource06": "None",
-
 				"SellResource07": "None",
-
 				"SellResource08": "None",
-
 				"SellResource09": "None",
-
 				"SellResource10": "None",
-
 				"SellResource11": "None",
-
 				"SellResource12": "None",
-
 				"SellResource13": "None",
-
 				"SellResource14": "None",
-
 				"SellResource15": "None",
-
 				"DefWallPatrolRallyTime": 20,
-
 				"DefWallPatrolGroups": 8,
-
 				"DefSiegeEngineGoldThreshold": 250,
-
 				"DefSiegeEngineBuildDelay": 3,
-
 				"Unknown072": 100,
-
 				"Unknown073": 20,
-
 				"RecruitProbDefDefault": 60,
-
 				"RecruitProbDefWeak": 90,
-
 				"RecruitProbDefStrong": 25,
-
 				"RecruitProbRaidDefault": 20,
-
 				"RecruitProbRaidWeak": 0,
-
 				"RecruitProbRaidStrong": 15,
-
 				"RecruitProbAttackDefault": 20,
-
 				"RecruitProbAttackWeak": 10,
-
 				"RecruitProbAttackStrong": 60,
-
 				"SortieUnitRangedMin": 15,
-
 				"SortieUnitRanged": "ArabArcher",
-
 				"SortieUnitMeleeMin": 20,
-
 				"SortieUnitMelee": "Pikeman",
-
 				"DefDiggingUnitMax": 10,
-
 				"DefDiggingUnit": "Pikeman",
-
 				"RecruitInterval": 4,
-
 				"RecruitIntervalWeak": 1,
-
 				"RecruitIntervalStrong": 2,
-
 				"DefTotal": 260,
-
 				"OuterPatrolGroupsCount": 6,
-
 				"OuterPatrolGroupsMove": "True",
-
 				"OuterPatrolRallyDelay": 5,
-
 				"DefWalls": 240,
-
 				"DefUnit1": "Crossbowman",
-
 				"DefUnit2": "Crossbowman",
-
 				"DefUnit3": "Crossbowman",
-
 				"DefUnit4": "Crossbowman",
-
 				"DefUnit5": "FireThrower",
-
 				"DefUnit6": "ArabArcher",
-
 				"DefUnit7": "EuropArcher",
-
 				"DefUnit8": "Spearman",
-
-				"RaidUnitsBase": 20,
-
+				"RaidUnitsBase": 30,
 				"RaidUnitsRandom": 10,
-
 				"RaidUnit1": "HorseArcher",
-
 				"RaidUnit2": "Assassin",
-
 				"RaidUnit3": "None",
-
 				"RaidUnit4": "None",
-
 				"RaidUnit5": "None",
-
 				"RaidUnit6": "None",
-
 				"RaidUnit7": "None",
-
 				"RaidUnit8": "None",
-
 				"HarassingSiegeEngine1": "Catapult",
-
 				"HarassingSiegeEngine2": "FireBallista",
-
 				"HarassingSiegeEngine3": "None",
-
 				"HarassingSiegeEngine4": "None",
-
 				"HarassingSiegeEngine5": "None",
-
 				"HarassingSiegeEngine6": "None",
-
 				"HarassingSiegeEngine7": "None",
-
 				"HarassingSiegeEngine8": "None",
-
 				"HarassingSiegeEnginesMax": 7,
-
 				"Unknown124": 5,
-
 				"AttForceBase": 230,
-
 				"AttForceRandom": 10,
-
 				"AttForceSupportAllyThreshold": 40,
-
 				"AttForceRallyPercentage": 85,
-
 				"Unknown129": 100,
-
 				"Unknown130": 12,
-
 				"AttUnitPatrolRecommandDelay": 3,
-
 				"Unknown132": 50,
-
 				"SiegeEngine1": "Catapult",
-
 				"SiegeEngine2": "Trebuchet",
-
 				"SiegeEngine3": "FireBallista",
-
 				"SiegeEngine4": "SiegeTower",
-
 				"SiegeEngine5": "Catapult",
-
 				"SiegeEngine6": "BatteringRam",
-
 				"SiegeEngine7": "Trebuchet",
-
 				"SiegeEngine8": "SiegeTower",
-
 				"CowThrowInterval": 8,
-
 				"Unknown142": 0,
-
 				"AttMaxEngineers": 25,
-
 				"AttDiggingUnit": "Pikeman",
-
 				"AttDiggingUnitMax": 60,
-
 				"AttUnit2": "EuropArcher",
-
 				"AttUnit2Max": 30,
-
 				"AttMaxAssassins": 5,
-
 				"AttMaxLaddermen": 8,
-
 				"AttMaxTunnelers": 4,
-
 				"AttUnitPatrol": "ArabArcher",
-
 				"AttUnitPatrolMax": 40,
-
 				"AttUnitPatrolGroupsCount": 1,
-
 				"AttUnitBackup": "Crossbowman",
-
 				"AttUnitBackupMax": 50,
-
 				"AttUnitBackupGroupsCount": 2,
-
 				"AttUnitEngage": "Maceman",
-
 				"AttUnitEngageMax": 30,
-
 				"AttUnitSiegeDef": "Swordsman",
-
 				"AttUnitSiegeDefMax": 10,
-
 				"AttUnitSiegeDefGroupsCount": 1,
-
 				"AttUnitMain1": "Swordsman",
-
 				"AttUnitMain2": "Swordsman",
-
 				"AttUnitMain3": "Pikeman",
-
 				"AttUnitMain4": "Pikeman",
-
 				"AttMaxDefault": 500,
-
 				"AttMainGroupsCount": 3,
-
 				"TargetChoice": "Closest"
-
 			}
-
 		},
-
+		
 		{
-
 			"Name": "Saladin",
-
 			"CustomName": "",
-
 			"Personality": {
-
-
-
 
 
 				"Unknown000": 10,
-
 				"Unknown001": 0,
-
 				"Unknown002": 0,
-
 				"Unknown003": 0,
-
 				"Unknown004": 0,
-
 				"Unknown005": 0,
-
 				"CriticalPopularity": 4900,
-
 				"LowestPopularity": 5000,
-
 				"HighestPopularity": 9000,
-
 				"TaxesMin": 3,
-
 				"TaxesMax": 12,
-
 				"Unknown011": 20,
-
 				"Farm1": "HopFarm",
-
 				"Farm2": "WheatFarm",
-
 				"Farm3": "WheatFarm",
-
 				"Farm4": "AppleFarm",
-
 				"Farm5": "None",
-
 				"Farm6": "None",
-
 				"Farm7": "None",
-
 				"Farm8": "None",
-
 				"PopulationPerFarm": 3,
-
 				"PopulationPerWoodcutter": 6,
-
 				"PopulationPerQuarry": 10,
 
 				"PopulationPerIronmine": 12,
