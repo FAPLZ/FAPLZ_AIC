@@ -1,6 +1,6 @@
 # FAPLZ_AIC
 
-IMPORTANT: You need the Unofficial Crusader Patch (link: XXX) to update the AIC_files.
+IMPORTANT: You need the Unofficial Crusader Patch (link: https://github.com/Sh0wdown/UnofficialCrusaderPatch/releases/tag/v2.14) to update the AIC_files.
 
 1.)Generally
 -
