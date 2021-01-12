@@ -38,7 +38,7 @@ AIV files who work, are listed below:
 
 
 
-2.2.)To add the AIC files in your game, you have to follow these steps:
+2.2.)To add the AIC file in your game, you have to follow these steps:
 -
 
 
