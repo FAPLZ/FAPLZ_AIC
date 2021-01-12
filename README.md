@@ -63,6 +63,6 @@ It is possible to download the AIV files as a compressed 7-Zip file or each sepa
 
 With the UCP you can do more then only change the AIV, go and check it out and for more information follow this link: https://github.com/Sh0wdown/UnofficialCrusaderPatch/wiki.
 
-In the export folder, in the AIC folder in the UCP, you can export different AIC (.json) files, to create your own AIC files. (help: 
+In the export folder, in the AIC folder in the UCP, you can export different AIC (.json) files, to create your own AIC files. (help: https://github.com/Sh0wdown/UnofficialCrusaderPatch/wiki/AIC-Editing-Tutorial)
 
 {-----All files are also available at Stronghold Heaven (link: XXXXX )-----}
