@@ -26,7 +26,7 @@ AIV files who work, are listed below:
 
 
 
-*To add the AIV files in your game, follow these steps:
+2.1.)To add the AIV files in your game, follow these steps:
 
   1.) make a backup folder for the original AIV files (optional).
 
@@ -34,7 +34,9 @@ AIV files who work, are listed below:
 
   3.) just add the new AIV files into the AIV folder (default: C:\Program Files (x86)\Firefly Studios\Stronghold Crusader\aiv).
 
-*To add the AIC files in your game, you have to follow these steps:
+
+
+2.2.)To add the AIC files in your game, you have to follow these steps:
 
   1.) download and install the Unofficial Crusader Patch (UCP) link: https://github.com/Sh0wdown/UnofficialCrusaderPatch/releases/tag/v2.14.
 
