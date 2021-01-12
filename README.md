@@ -14,33 +14,37 @@ IMPORTANT: The AIC file should not work with most of the Vanilla AIV files, beca
 
 AIV files who work, are listed below:
 
+-A
+
+-B
+
+-C
+
+
 2.)Install
-
-
-
 -
-To add the AIV files in your game, follow these steps:
-
-1.) make a backup folder for the original AIV files (optional).
-
-2.) download the AIV files (the files are located in the folder: FAPLZ_AIV_files_Improfed, or you download the .zip file; FAPLZ_AIV_files_Improfed.zip).
-
-3.) just add the new AIV files into the AIV folder (default: C:\Program Files (x86)\Firefly Studios\Stronghold Crusader\aiv).
 
 
 
--
-To add the AIC files in your game, you have to follow these steps:
+*To add the AIV files in your game, follow these steps:
 
-1.) download and install the Unofficial Crusader Patch (UCP) link: https://github.com/Sh0wdown/UnofficialCrusaderPatch/releases/tag/v2.14.
+  1.) make a backup folder for the original AIV files (optional).
 
-2.) download the AIC file, with the name: "FAPLZ_4.6.7.json" (the AIC file is written as a .json file, that the UCP can compile it).
+  2.) download the AIV files (the files are located in the folder: FAPLZ_AIV_files_Improfed, or you download the .zip file; FAPLZ_AIV_files_Improfed.zip).
 
-3.) put the FAPLZ_4.6.7.json file in the AIC folder, that is located in the UCP directory (default: ...\UnofficialCrusaderPatch_v2.14\resources\aic).
+  3.) just add the new AIV files into the AIV folder (default: C:\Program Files (x86)\Firefly Studios\Stronghold Crusader\aiv).
 
-4.) start the UCP (UnofficialCrusaderPatchGUI.exe; optional as admin).
+*To add the AIC files in your game, you have to follow these steps:
 
-5.) switch to the tab "AIC" and mark the AIC file you want to use, press the install button and wait until the programm is finished.
+  1.) download and install the Unofficial Crusader Patch (UCP) link: https://github.com/Sh0wdown/UnofficialCrusaderPatch/releases/tag/v2.14.
+
+  2.) download the AIC file, with the name: "FAPLZ_4.6.7.json" (the AIC file is written as a .json file, that the UCP can compile it).
+
+  3.) put the FAPLZ_4.6.7.json file in the AIC folder, that is located in the UCP directory (default: ...\UnofficialCrusaderPatch_v2.14\resources\aic).
+
+  4.) start the UCP (UnofficialCrusaderPatchGUI.exe; optional as admin).
+
+  5.) switch to the tab "AIC" and mark the AIC file you want to use, press the install button and wait until the programm is finished.
 
 
 3.)Information
