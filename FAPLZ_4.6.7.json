@@ -698,7 +698,7 @@
 				"Unknown130": 8,
 				"AttUnitPatrolRecommandDelay": 3,
 				"Unknown132": 50,
-				"SiegeEngine1": "Trebuchet",
+				"SiegeEngine1": "Catapult",
 				"SiegeEngine2": "FireBallista",
 				"SiegeEngine3": "SiegeTower",
 				"SiegeEngine4": "BatteringRam",
