@@ -12,13 +12,13 @@ There are 8 AIV's for every AI character, specially created for the AIC file.
 
 IMPORTANT: The AIC file should not work with most of the Vanilla AIV files, because there are too less population/houses to manage the whole economy.
 
-AIV files who work, are listed below:
+AIV files who also work, are listed below:
 
--A
+-{Xander10Alpha}
 
--B
+-{Russianstory}
 
--C
+-xxx
 
 
 2.)Install
