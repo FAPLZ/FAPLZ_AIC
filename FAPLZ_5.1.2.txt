@@ -68,10 +68,17 @@
 			-Belagerungsgeräte: Katapulte und Schilde
 			-Kühe als Wurfgeschosse, Interval von 1000 auf 10 gesetzt
 			-Anzahl der Baumeister in Angriff von 0 auf 10 erhöht
-			-Leiterträger
 			-maximale Anzahl an Angriffstruppen, die den Burggraben aufbuddeln von 20 auf 30 gesetzt
-			-Belagerungswaffen verschießen Kühe
-			-mehr Bogenschützen und Speerkämpfer zusätzlich im Angriff
+			-Anzahl der Bogenschützen als zweite Angriffseinheit von 0 auf 20 gesetzt
+			-4 Leiterträger
+			-Anzahl der Bogenschützen Patroullien im Angriff von 0 auf 15 gesetzt
+				->1 Patroullie im Angriff
+			-Anzahl der Reserve Bogenschützen von 16 auf 25 erhöht
+			-20 Speerkämpfer Einheiten zum Gegenangriff
+			-Anzahl der Speerkämpfer zur Bewachung der Belagerungsgeräte von 0 auf 15 gesetzt
+				->1 Gruppe zur bewachung der Belagerungsgeräte
+			-Bogenschützen als Angriffseinheiten zusätzlich zu den Speerkämpfern
+			-Maximale Truppenzahl von 200 auf 3000 erhöht
 		
 		Schlange:
 			-Baut Apfelfarmen und Käsereien
@@ -1853,7 +1860,7 @@
 				"HarassingSiegeEngine8": "None",
 				"HarassingSiegeEnginesMax": 3,
 				"Unknown124": 4,
-				"AttForceBase": 50,
+				"AttForceBase": 55,
 				"AttForceRandom": 15,
 				"AttForceSupportAllyThreshold": 40,
 				"AttForceRallyPercentage": 40,
@@ -1874,8 +1881,8 @@
 				"AttMaxEngineers": 11,
 				"AttDiggingUnit": "Spearman",
 				"AttDiggingUnitMax": 60,
-				"AttUnit2": "Spearman",
-				"AttUnit2Max": 30,
+				"AttUnit2": "Swordsman",
+				"AttUnit2Max": 20,
 				"AttMaxAssassins": 0,
 				"AttMaxLaddermen": 8,
 				"AttMaxTunnelers": 0,
@@ -1887,7 +1894,7 @@
 				"AttUnitBackupGroupsCount": 1,
 				"AttUnitEngage": "Knight",
 				"AttUnitEngageMax": 16,
-				"AttUnitSiegeDef": "Spearman",
+				"AttUnitSiegeDef": "Swordsman",
 				"AttUnitSiegeDefMax": 10,
 				"AttUnitSiegeDefGroupsCount": 1,
 				"AttUnitMain1": "Spearman",
