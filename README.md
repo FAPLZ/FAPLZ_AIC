@@ -1,6 +1,6 @@
 # FAPLZ_AIC
 
-IMPORTANT: You need the Unofficial Crusader Patch (UCP) (link: https://github.com/Sh0wdown/UnofficialCrusaderPatch/releases/tag/v2.14) to update the AIC_file.
+IMPORTANT: You need the Unofficial Crusader Patch (UCP) (link: https://github.com/UnofficialCrusaderPatch/UnofficialCrusaderPatch/releases) to update the AIC_file.
 
 If you neet help to install the UCP, follow these link: https://github.com/Sh0wdown/UnofficialCrusaderPatch/wiki/UCP-Installation.
 
