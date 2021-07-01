@@ -42,11 +42,11 @@ AIV files who also work, are listed below:
 -
 
 
-  1.) download and install the Unofficial Crusader Patch (UCP) link: https://github.com/Sh0wdown/UnofficialCrusaderPatch/releases/tag/v2.14.
+  1.) download and install the Unofficial Crusader Patch (UCP) link: https://github.com/UnofficialCrusaderPatch/UnofficialCrusaderPatch/releases )
 
-  2.) download the AIC file, with the name: "FAPLZ_4.6.7.json" (the AIC file is written as a .json file, that the UCP can compile it).
+  2.) download the AIC file, with the name: "FAPLZ_5.3.2.json" (the AIC file is written as a .json file, that the UCP can compile it).
 
-  3.) put the FAPLZ_4.6.7.json file in the AIC folder, that is located in the UCP directory (default: ...\UnofficialCrusaderPatch_v2.14\resources\aic).
+  3.) put the FAPLZ_5.3.2.json file in the AIC folder, that is located in the UCP directory (default: ...\UnofficialCrusaderPatch_v2.14\resources\aic).
 
   4.) start the UCP (UnofficialCrusaderPatchGUI.exe; optional as admin).
 
