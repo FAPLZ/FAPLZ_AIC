@@ -12,15 +12,6 @@ There are 8 AIV's for every AI character, specially created for the AIC file.
 
 IMPORTANT: The AIC file should not work with most of the Vanilla AIV files, because there are too less population/houses to manage the whole economy.
 
-AIV files who also work, are listed below:
-
--{Xander10Alpha}
-
--{Russianstory}
-
--xxx
-
-
 2.)Install
 -
 
@@ -44,7 +35,7 @@ AIV files who also work, are listed below:
 
   1.) download and install the Unofficial Crusader Patch (UCP) link: https://github.com/UnofficialCrusaderPatch/UnofficialCrusaderPatch/releases )
 
-  2.) download the AIC file, with the name: "FAPLZ_5.3.2.json" (the AIC file is written as a .json file, that the UCP can compile it).
+  2.) download the AIC file, with the name: "FAPLZ_5.5.2.json" (the AIC file is written as a .json file, that the UCP can compile it).
 
   3.) put the FAPLZ_5.3.2.json file in the AIC folder, that is located in the UCP directory (default: ...\UnofficialCrusaderPatch_v2.14\resources\aic).
 
@@ -65,4 +56,4 @@ With the UCP you can do more then only change the AIV, go and check it out and f
 
 In the export folder, in the AIC folder in the UCP, you can export different AIC (.json) files, to create your own AIC files. (help: https://github.com/Sh0wdown/UnofficialCrusaderPatch/wiki/AIC-Editing-Tutorial)
 
-{-----All files are also available at Stronghold Heaven (link: XXXXX )-----}
+All files are also available at Stronghold Heaven: http://stronghold.heavengames.com/downloads/showfile.php?fileid=8550
