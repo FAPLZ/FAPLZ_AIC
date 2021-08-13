@@ -10,6 +10,8 @@ Here you can download AIV (Artificial Intelligence Village) and AIC (Artificial 
 
 There are 8 AIV's for every AI character, specially created for the AIC file.
 
+Pictures of all AIV files are aviable in the folder: 'pictures'
+
 IMPORTANT: The AIC file should not work with most of the Vanilla AIV files, because there are too less population/houses to manage the whole economy.
 
 2.)Install
@@ -49,8 +51,6 @@ IMPORTANT: The AIC file should not work with most of the Vanilla AIV files, beca
 If you want to use the original AIV files, then take the original AIV files and add these to the AIV folder.
 
 You can download the original AIV files here: https://github.com/FAPLZ/AIV-files-for-Stronghold-Crusader.
-
-It is possible to download the AIV files as a compressed 7-Zip file or each separately.
 
 With the UCP you can do more then only change the AIV, go and check it out and for more information follow this link: https://github.com/Sh0wdown/UnofficialCrusaderPatch/wiki.
 
